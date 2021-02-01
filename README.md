@@ -460,9 +460,9 @@ ProductManager
     
     
 ##### Kaynaklar
-https://medium.com/pirilab/soli%CC%87d-prensipleri-2-ec74fdf46964
-http://enesaysan.com/software/orneklerle-solid-prensipleri/
-https://medium.com/bili%C5%9Fim-hareketi/solid-nedir-ne-de%C4%9Fildir-12c8bdfeda1c    
+* https://medium.com/pirilab/soli%CC%87d-prensipleri-2-ec74fdf46964
+* http://enesaysan.com/software/orneklerle-solid-prensipleri/
+* https://medium.com/bili%C5%9Fim-hareketi/solid-nedir-ne-de%C4%9Fildir-12c8bdfeda1c    
     
         
         
